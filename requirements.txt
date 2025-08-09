@@ -4,3 +4,9 @@ torch                # Required backend for sentence-transformers
 transformers         # Optional, useful if you use transformers models later
 llama-cpp-python     # For running local LLMs like StarCoder, Phi-3-mini (Layer 2+)
 rich                 # Pretty CLI output (optional, Layer 4+)
+dotenv              # For loading environment variables from .env files (optional, Layer 4+)
+fastapi
+uvicorn
+sqlalchemy
+strawberry-graphql
+python-dotenv
