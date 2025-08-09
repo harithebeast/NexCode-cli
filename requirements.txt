@@ -1,0 +1,6 @@
+faiss-cpu            # Fast vector similarity search
+sentence-transformers # Easy-to-use embedding models, incl. code embeddings
+torch                # Required backend for sentence-transformers
+transformers         # Optional, useful if you use transformers models later
+llama-cpp-python     # For running local LLMs like StarCoder, Phi-3-mini (Layer 2+)
+rich                 # Pretty CLI output (optional, Layer 4+)
